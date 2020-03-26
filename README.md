@@ -4,23 +4,23 @@ This is a definition generation reading list maintained by the Beijing Language 
 
 ## Content
 
-1. [Definition Generation](#Definition Generation)
+1. [Definition Generation](#1. Definition Generation)
 
-2. [Related Task](#Related Task)
+2. [Related Task](#2. Related Task)
 
-   2.1 [Learning Word Embeddings From Definitions](#Learning Word Embeddings From Definitions)
+   2.1 [Learning Word Embeddings From Definitions](#2.1 Learning Word Embeddings From Definitions)
 
-   2.2 [Word Sense Disambiguation](#Word Sense Disambiguation)
+   2.2 [Word Sense Disambiguation](#2.2 Word Sense Disambiguation)
 
-   2.3 [Others](#Others)
+   2.3 [Others](#2.3 Others)
 
-3. [Chinese Data Resources](#Chinese Data Resources)
+3. [Chinese Data Resources](#3. Chinese Data Resources)
 
-   3.1 [CCD](#CCD)
+   3.1 [CCD](#3.1 CCD)
 
-   3.2 [CWN](#CWN)
+   3.2 [CWN](#3.2 CWN)
 
-   3.3 [HowNet](#HowNet)
+   3.3 [HowNet](#3.3 HowNet)
 
 ## 1. Definition Generation
 
