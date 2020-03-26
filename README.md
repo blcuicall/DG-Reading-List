@@ -53,5 +53,5 @@ This is a definition generation reading list maintained by the Beijing Language 
 
 ### HowNet
 
-- 郝长伶, 董强. 2003. [KDML——知网知识系统描述语言]([http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf](http://www.keenage.com/Theory and practice of HowNet/07.pdf)). *全国第七届计算语言学联合学术会议*  [OpenHownet Web Site](<https://openhownet.thunlp.org/>)
+- 郝长伶, 董强. 2003. [KDML——知网知识系统描述语言](<http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf>). *全国第七届计算语言学联合学术会议*  [OpenHownet Web Site](<https://openhownet.thunlp.org/>)
 
