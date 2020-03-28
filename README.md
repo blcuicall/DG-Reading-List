@@ -58,9 +58,9 @@ This is a definition generation reading list maintained by the Beijing Language 
 
 <h3 id="3.2">3.2 CWN</h3>
 
-- 黄居仁, 谢舒凯, 洪嘉馡, 陈韵竹, 苏依莉, 陈永祥, 黄胜伟. 2010. [中文词汇网络:跨语言知识处理基础架构的设计理念与实践](<http://jcip.cipsc.org.cn/CN/Y2010/V24/I2/14>). *中文信息学报*  [CWN2 Web Site](<http://lope.linguistics.ntu.edu.tw/cwn2/>)
+- 黄居仁, 谢舒凯, 洪嘉馡, 陈韵竹, 苏依莉, 陈永祥, 黄胜伟. 2010. [中文词汇网络:跨语言知识处理基础架构的设计理念与实践](<http://jcip.cipsc.org.cn/CN/Y2010/V24/I2/14>). *中文信息学报* [[CWN2 Web Site](<http://lope.linguistics.ntu.edu.tw/cwn2/>)]
 
 <h3 id="3.3">3.3 HowNet</h3>
 
-- 郝长伶, 董强. 2003. [KDML——知网知识系统描述语言](<http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf>). *全国第七届计算语言学联合学术会议*  [OpenHownet Web Site](<https://openhownet.thunlp.org/>)
+- 郝长伶, 董强. 2003. [KDML——知网知识系统描述语言](<http://www.keenage.com/Theory%20and%20practice%20of%20HowNet/07.pdf>). *全国第七届计算语言学联合学术会议* [[OpenHownet Web Site](<https://openhownet.thunlp.org/>)]
 
